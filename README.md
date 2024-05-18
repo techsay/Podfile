@@ -41,3 +41,21 @@ with open("depends_hierarchical_relation.md", "w") as file:
     file.write(depends_list_msg)
 ```
 
+
+
+**全局依赖图**
+
+depends_graph_all.md 使用Typora打开片段：
+
+![graph_all](source/picall.png)
+
+
+
+**每个模块的依赖图**
+
+depends_graph_singles.md 使用Typora打开片段：
+
+![graph_all](source/picsingle.png)
+
+
+
